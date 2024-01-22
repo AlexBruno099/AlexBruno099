@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/AlexBruno099/AlexBruno099/output/snake.svg" alt="Snake animation" />
 
 <div align="left"> 
-  <a href="https://instagram.com/filh0x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/alex_bruno_ramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexandrepereirax643@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" src="https://profile-counter.glitch.me/AlexBruno099/count.svg?"  />
   
