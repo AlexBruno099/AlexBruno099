@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Alex/Alex/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AlexBruno099/AlexBruno099/output/snake.svg" alt="Snake animation" />
 
 <div align="left"> 
   <a href="https://www.instagram.com/alex_bruno_ramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
