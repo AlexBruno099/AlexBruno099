@@ -1,4 +1,4 @@
-<h1 align="left"> Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Alex Bruno! </h1>
+<h1 align="left"> Hᴇʟʟᴏ, I'ᴍ Alex Bruno! </h1>
 
 
 <h4 align="left">🔭 Aᴍᴀɴᴛᴇ ᴅᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ...<br> 🌱 Estudos...<br> 👨🏽‍💻Do it like a programmer. When everything is wrong and confusing, delete everything and start over from scratch....</h4>
