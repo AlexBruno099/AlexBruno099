@@ -1,4 +1,4 @@
-<img width="95%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /><h1 align="left"> Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Alex Bruno! </h1>
+<h1 align="left"> Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Alex Bruno! </h1>
 
 
 <h4 align="left">🔭 Aᴍᴀɴᴛᴇ ᴅᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ...<br> 🌱 Estudos...<br> 👨🏽‍💻Do it like a programmer. When everything is wrong and confusing, delete everything and start over from scratch....</h4>
@@ -35,4 +35,3 @@
   <a href = "mailto:alexbrunorr099@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" src="https://profile-counter.glitch.me/AlexBruno099/count.svg?"  />
   
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
