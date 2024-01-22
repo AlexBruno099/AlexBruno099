@@ -26,7 +26,7 @@
 
 <div align="left"> 
   <a href="https://www.instagram.com/alex_bruno_ramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexandrepereirax643@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" src="https://profile-counter.glitch.me/AlexBruno099/count.svg?"  />
+  <a href = "mailto:alexbrunorr099@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="right" src="https://profile-counter.glitch.me/AlexBruno099/count.svg?"/>
   
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
