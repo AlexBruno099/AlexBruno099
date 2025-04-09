@@ -60,6 +60,3 @@
   <img src="https://komarev.com/ghpvc/?username=AlexBruno099&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile views" />
 </div>
 
----
-### 🐍 Meu Progresso Diário
-![Snake animation](https://raw.githubusercontent.com/AlexBruno099/AlexBruno099/main/dist/github-contribution-grid-snake.svg)
