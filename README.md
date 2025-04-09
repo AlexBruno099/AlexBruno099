@@ -61,6 +61,5 @@
 </div>
 
 ---
-
-### 🐍 Snake Eating My Contributions
-![Snake animation](https://raw.githubusercontent.com/AlexBruno099/AlexBruno099/output/github-contribution-grid-snake-dark.svg)
+### 🐍 Meu Progresso Diário
+![Snake animation](https://raw.githubusercontent.com/AlexBruno099/AlexBruno099/main/dist/github-contribution-grid-snake.svg)
