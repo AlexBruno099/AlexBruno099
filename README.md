@@ -1,37 +1,66 @@
-<h1 align="left"> Hᴇʟʟᴏ, I'ᴍ Alex Bruno! </h1>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Alex+Bruno!;AMANTE+DA+TECNOLOGIA...;Full+Stack+Developer" alt="Typing animation" />
+</h1>
 
+<h3 align="center"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  "Do it like a programmer. When everything is wrong... start over from scratch."
+</h3>
 
-<h4 align="left">🔭 Aᴍᴀɴᴛᴇ ᴅᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ...<br> 🌱 Estudos...<br> 👨🏽‍💻Do it like a programmer. When everything is wrong and confusing, delete everything and start over from scratch....</h4>
+---
 
-###
+### 🛠️ Tech Stack
+#### 🖥️ Frontend:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexBruno099&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexBruno099&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlexBruno099&locale=en&mode=daily&theme=dracula&hide_border=true&date_format=M%20j%5B,%20Y%5D&order=3" height="125" alt="streak graph"  />
-</div>
+#### 🗄️ Backend & Databases:
+![Firebird](https://img.shields.io/badge/Firebird-FF8C00?style=for-the-badge&logo=firebird&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-#
+#### 🔧 Tools:
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexBruno099&theme=dracula" alt="Profile Details" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexBruno099&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBruno099&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
+  
+  <img src="https://streak-stats.demolab.com?user=AlexBruno099&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
 </div>
 
-<img src="https://raw.githubusercontent.com/AlexBruno099/AlexBruno099/output/snake.svg" alt="Snake animation" />
+---
 
-<div align="left"> 
-  <a href="https://www.instagram.com/alex_bruno_ramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexbrunorr099@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" src="https://profile-counter.glitch.me/AlexBruno099/count.svg?"  />
+### 🎯 Featured Projects
+<!-- Adicione seus projetos aqui com cards -->
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=AlexBruno099&repo=REPO_NAME&theme=dracula)](https://github.com/AlexBruno099/REPO_NAME)
+
+---
+
+### 🌐 Let's Connect
+<div align="center"> 
+  <a href="https://www.instagram.com/alex_bruno_ramos">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:alexbrunorr099@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <!-- Adicione outros links se quiser -->
   
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=AlexBruno099&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile views" />
+</div>
+
+---
+
+### 🐍 Snake Eating My Contributions
+![Snake animation](https://raw.githubusercontent.com/AlexBruno099/AlexBruno099/output/github-contribution-grid-snake-dark.svg)
