@@ -43,7 +43,7 @@
 
 ### 🎯 Featured Projects
 <!-- Adicione seus projetos aqui com cards -->
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=AlexBruno099&repo=REPO_NAME&theme=dracula)](https://github.com/AlexBruno099/REPO_NAME)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=AlexBruno099&repo=REPO_NAME&theme=dracula)](https://github.com/AlexBruno099/Loja_Virtual)
 
 ---
 
