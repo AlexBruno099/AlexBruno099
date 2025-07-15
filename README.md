@@ -81,5 +81,4 @@
 ---
 
 <p align="center">
-  🚀 <b>Explore, clique, descubra!</b>  
 </p>
