@@ -12,7 +12,7 @@
 ### 🚀 About Me
 - 💻 Sou apaixonado por desenvolvimento Full Stack
 - 🚀 Sempre buscando evoluir com novos desafios
-- 🎯 Foco em C#, JavaScript, PHP, Vue, Firebird e MariaDB
+- 🎯 Foco em C#, JavaScript, Firebird e MariaDB
 - 🏆 Amante de boas práticas e testes
 
 ---
