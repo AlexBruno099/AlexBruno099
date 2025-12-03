@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=9D4DFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Alex+Bruno!;Backend+Developer+%7C+C%23;Quality+Assurence;Transformando+pr%C3%A1tica+em+excel%C3%AAncia+todos+os+dias" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=9D4DFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Alex+Bruno!;Backend+Developer+%7C+C%23;Quality+Assurence" />
 </h1>
 
 <h3 align="center">
