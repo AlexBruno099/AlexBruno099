@@ -14,7 +14,6 @@
 Sou um desenvolvedor **Backend Júnior** apaixonado por construir o "invisível" que faz tudo funcionar. Foco em arquitetura robusta, performance e código limpo.
 
 - 💼 Atualmente aprimorando aplicações com **C# / .NET**.
-- 🛠️ Estudando profundamente **Arquitetura de Software** e **SOLID**.
 - 🧪 Garantindo qualidade com **Automação de Testes (Python + Selenium)**.
 - 🎯 Objetivo: Transformar regras de negócio complexas em soluções simples e escaláveis.
 
