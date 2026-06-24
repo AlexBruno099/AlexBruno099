@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=9D4DFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Alex+Bruno!;Backend+Developer+%7C+C%23;Quality+Assurance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=9D4DFF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Alex+Bruno!;Full+Stack+Developer;Mobile+Developer+%7C+React+Native;Next.js+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="margin-bottom: -5px;" /> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
   <em>"Às vezes, Deus te leva pelo caminho mais longo, não para te punir, mas sim para te preparar."</em>
 </div>
 
@@ -11,11 +11,25 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor **Backend Júnior** apaixonado por construir o "invisível" que faz tudo funcionar. Foco em arquitetura robusta, performance e código limpo.
+Sou um **Desenvolvedor Full Stack** com foco em **Mobile e Web**, apaixonado por criar soluções modernas, escaláveis e experiências digitais que geram impacto real.
 
-- 💼 Atualmente aprimorando aplicações com **C# / .NET**.
-- 🧪 Garantindo qualidade com **Automação de Testes (Python + Selenium)**.
-- 🎯 Objetivo: Transformar regras de negócio complexas em soluções simples e escaláveis.
+Atualmente trabalho principalmente com **React Native**, **Expo**, **Next.js** e **TypeScript**, desenvolvendo aplicações mobile, integrações com APIs, sistemas de pagamento e soluções corporativas.
+
+* 📱 Desenvolvimento Mobile com **React Native** e **Expo**
+* 🌐 Desenvolvimento Web com **Next.js**
+* ⚡ Construção de APIs e integrações de sistemas
+* 💳 Experiência com sistemas de pagamento e automação comercial
+* 🚀 Foco em performance, escalabilidade e experiência do usuário
+
+---
+
+### 🎯 Atualmente
+
+* 📱 Desenvolvendo aplicações mobile com React Native e Expo
+* 🌐 Criando plataformas web modernas com Next.js
+* 💳 Trabalhando com integrações de pagamento e automação comercial
+* 🔗 Construindo APIs e integrações corporativas
+* ⚡ Evoluindo constantemente em arquitetura e desenvolvimento Full Stack
 
 ---
 
@@ -23,12 +37,12 @@ Sou um desenvolvedor **Backend Júnior** apaixonado por construir o "invisível"
 
 <div align="center">
 
-| **Backend & Core** | **Bancos de Dados** | **QA & Ferramentas** |
-|:---:|:---:|:---:|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=python&logoColor=white) |
-| ![EF Core](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge) | ![Firebird](https://img.shields.io/badge/Firebird-FF8C00?style=for-the-badge&logo=firebird&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+|                                                        Mobile                                                       |                                                         Frontend                                                        |                                                    Backend & APIs                                                   |                                                 Banco de Dados                                                |
+| :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) |       ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)      |     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)    |      ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)     |
+|          ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)          |          ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)          | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white) |   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)  |
+|      ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)     | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white) |                    ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)                    | ![Firebird](https://img.shields.io/badge/Firebird-FF8C00?style=for-the-badge\&logo=firebird\&logoColor=white) |
+|   ![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=for-the-badge\&logo=expo\&logoColor=white)   |           ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)          |      ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)     |                      ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)                      |
 
 </div>
 
@@ -37,60 +51,79 @@ Sou um desenvolvedor **Backend Júnior** apaixonado por construir o "invisível"
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexBruno099&theme=dracula" width="400" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexBruno099&theme=dracula" width="400" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com?user=AlexBruno099&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexBruno099&theme=dracula" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlexBruno099&show_icons=true&theme=dracula&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBruno099&layout=compact&theme=dracula&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AlexBruno099&theme=dracula&hide_border=true&background=0D1117" />
+
 </div>
 
 ---
 
-### 🔥 Projeto em Destaque
+### 🔥 O Que Estou Construindo
 
 <div align="center">
+
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 
-### **Importador Firebird**
-**Migração Enterprise: Firebird 2.5 ➜ 5.0**
+### 📱 Mobile First Development
 
-Um projeto desafiador focado na integridade e performance de dados legados.
+Desenvolvimento de aplicações modernas focadas em produtividade, automação e meios de pagamento.
 
-* 🔧 **Engine de migração robusta** e customizável.
-* ⚙️ **Alta Performance** na transferência de dados.
-* 🤝 **Colaborativo:** Visão de produto + Engenharia.
-
-<div align="center">
-  <a href="https://github.com/RamonLewa/ImportadorFirebird">
-    <img src="https://img.shields.io/badge/Ver_Código_Fonte-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+* ⚛️ Aplicações Mobile utilizando React Native
+* 🚀 Projetos construídos com Expo e TypeScript
+* 🔗 Integrações REST APIs e sistemas corporativos
+* 💳 Soluções de pagamento e automação comercial
+* 🌐 Dashboards e plataformas utilizando Next.js
+* 📈 Arquiteturas escaláveis para crescimento contínuo
 
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
 
+### 🏆 GitHub Trophies
+
 <div align="center">
-  
-  <a href="https://www.instagram.com/alex_bruno_ramos" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:alexbrunorr099@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <br/>
-  <br/>
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexBruno099.AlexBruno099&color=8A2BE2"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlexBruno099&theme=dracula&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+### 🤝 Vamos Conectar?
+
+<div align="center">
+
+<a href="https://www.instagram.com/alex_bruno_ramos" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:alexbrunorr099@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AlexBruno099" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AlexBruno099.AlexBruno099&color=8A2BE2"/>
+
 </div>
